@@ -10,4 +10,11 @@ npm install
 npm run dev
 ```
 
+## Build for production
+
+```bash
+cd planner-suite
+npm run build
+```
+
 The main modules described in `planner_suite_prd.json` will be implemented progressively starting with the Stage Planner.
